@@ -1,0 +1,47 @@
+canvas {
+  border: 1px solid green;
+  padding-top: 0px;
+  margin-top: 0px;
+  display:inline;
+}
+body {
+  background-color: #d9c334;
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+  padding-bottom: 0;
+
+  font-family: 'Short Stack', cursive;
+
+}
+button {
+
+  background: #d9c334;
+  background-image: -webkit-linear-gradient(top, #d9c334, #b8472b);
+  background-image: -moz-linear-gradient(top, #d9c334, #b8472b);
+  background-image: -ms-linear-gradient(top, #d9c334, #b8472b);
+  background-image: -o-linear-gradient(top, #d9c334, #b8472b);
+  background-image: linear-gradient(to bottom, #d9c334, #b8472b);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #e3ce12;
+  font-family: 'Short Stack', cursive;
+  color: #0a0400;
+  font-size: 47px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  float: right;
+  padding: -19px;
+  border top: 100px;
+  margin-top: 120px;
+  margin-left: 400px;
+
+}
+.btn {
+
+position: relative;
+
+
+}
